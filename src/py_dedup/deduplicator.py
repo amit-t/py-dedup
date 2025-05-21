@@ -1,11 +1,10 @@
-""
+"""
 Core deduplication functionality.
 
 This module provides the main Deduplicator class that handles message deduplication
 using a configurable cache backend and hashing strategy.
 """
-import time
-from typing import Any, Optional, Union
+from typing import Any, Optional
 
 from .cache.base import BaseCache
 from .exceptions import CacheError, ConfigurationError, SerializationError

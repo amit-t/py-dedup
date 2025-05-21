@@ -46,7 +46,7 @@ else:
 
 ## Documentation
 
-Full documentation is available at [https://github.com/yourusername/py-dedup](https://github.com/yourusername/py-dedup).
+Full documentation is available at [https://github.com/amit-t/py-dedup](https://github.com/yourusername/py-dedup).
 
 ## Contributing
 
